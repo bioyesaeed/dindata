@@ -11,12 +11,12 @@ https://drive.google.com/drive/folders/1GvCgCsFFYGaa4UeNSDO5b8mkNYbvXvg4?usp=sha
 
 ### DINData GUI Software User’s Brief Guide
 
-A test numerical ionogram data `DIDBGetValuesAll.txt` for the year 2020 is included in the setup folder.
+A test numerical ionogram data `DIDBGetValuesAll.txt` for the year `2020` is included in the setup folder.
 
 1. Intsall the DINDATA software
 2. Open the software after installation and click on the Browse button to load the test dataset.
-3. Enter ‘2010-01-01’ for the start date and ‘2010-12-13’ for the end date
-4. Enter any value between 0-100 for CS or leave empty. The default value is 0.
+3. Enter `2010-01-01` for the start date and `2010-12-13` for the end date
+4. Enter any value between `0-100` for CS or leave empty. The default value is `0`.
 5. Click the Run button
 
 If the process is successful, the output file is in the created DINDATA folder in the Windows PC Document folder.
