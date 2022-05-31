@@ -21,7 +21,6 @@ A test numerical ionogram data `DIDBGetValuesAll.txt` for the year 2020 is inclu
 
 If the process is successful, the output file is in the created DINDATA folder in the Windows PC Document folder.
 
-For any issue please contact Bello Saeed ( bello.sa[at]unilorin.edu.ng or bioyesaeed[at]gmail.com)
 
 # Running the source code
 
